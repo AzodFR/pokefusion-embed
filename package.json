@@ -1,0 +1,31 @@
+{
+  "name": "pokefusion-embed",
+  "version": "1.0.0",
+  "description": "Send pokefusion in embed",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AzodFR",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AzodFR/pokefusion-embed.git"
+  },
+  "keywords": [
+    "pokefusion",
+    "pokemon",
+    "embed",
+    "discord",
+    "discordjs",
+    "discord.js"
+  ],
+  "bugs": {
+    "url": "https://github.com/AzodFR/pokefusion-embed/issues"
+  },
+  "homepage": "https://github.com/AzodFR/pokefusion-embed#readme"
+}
