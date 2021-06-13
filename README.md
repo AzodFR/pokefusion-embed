@@ -35,7 +35,7 @@ message.channel.send(embed)
 
 ----
 
-const embed = new MessageEmbed(pfe.genColor("Color"));
+const embed = new MessageEmbed(pfe.genColor("BLUE"));
 message.channel.send(embed)
 ```
 
